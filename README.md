@@ -10,12 +10,12 @@ The model that we hope will attain that desired accuracy is a neural net. A neur
 
 ---
 
-## Resources
+### Resources
 [Source Data CSV File](https://github.com/carlosjennings1991/Neural_Network_Charity_Analysis/blob/main/charity_data.csv)
 <br>
 [Code File](https://github.com/carlosjennings1991/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb)
 
-## Tools Used
+### Tools Used
 - [x] sklearn
 - [x] pandas
 - [x] tensorflow
