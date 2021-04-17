@@ -8,3 +8,14 @@ The model that we hope will attain that desired accuracy is a neural net. A neur
 2. A hidden layer with a certain number of neurons
 3. An output layer which gives our predictions. 
 
+---
+## Resources
+
+#
+## Tools Used
+
+#
+## Results
+
+#
+## Summary
