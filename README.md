@@ -22,7 +22,6 @@ The model that we hope will attain that desired accuracy is a neural net. A neur
 - [x] support vector machines
 - [x] jupyter notebook
 
-#
 ## Results
 
 #
