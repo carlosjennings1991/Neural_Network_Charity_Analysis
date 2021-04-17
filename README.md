@@ -9,9 +9,9 @@ The model that we hope will attain that desired accuracy is a neural net. A neur
 3. An output layer which gives our predictions. 
 
 ---
+
 ## Resources
 
-#
 ## Tools Used
 
 #
