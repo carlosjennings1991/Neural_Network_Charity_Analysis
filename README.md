@@ -11,6 +11,7 @@ The model that we hope will attain that desired accuracy is a neural net. A neur
 ---
 
 ## Resources
+[Source Data File](https://github.com/carlosjennings1991/Neural_Network_Charity_Analysis/blob/main/charity_data.csv)
 
 ## Tools Used
 
