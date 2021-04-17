@@ -23,6 +23,10 @@ The model that we hope will attain that desired accuracy is a neural net. A neur
 - [x] jupyter notebook
 
 ## Results
+### Step 1: Preprocess our data
+This is typically the first step for any machine learning model. We fed in a csv file that contained a few parameters that would have no affect on our data, i.e the 'EIN' (employee identification number) and 'NAME' columns. We drop these columns. 
+
+<img src="https://github.com/carlosjennings1991/Neural_Network_Charity_Analysis/blob/main/columns_highlighted.png">
 
 #
 ## Summary
