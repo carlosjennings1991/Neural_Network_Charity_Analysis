@@ -89,6 +89,10 @@ ___
 
 ## Summary
 
-While none of our models meet our 75% threshold, we are far from exhausting all of our possible models. For example, a supervised ML model such as a Support Vector Machine could work. After all, we are simply looking for binary outcome, yes or no, is this charity worhty or not worthy? 
+While none of our models meet our 75% threshold, we are far from exhausting all of our possible models. For example, a supervised ML model such as a Support Vector Machine could work. After all, we are simply looking for binary outcome, yes or no. We aren't looking for multiple clusters or a linear regression of continuous variables. 
+
+However, your computer may not have enough computing power to complete a SVM in a timely manner. For instance, at the time of this writing, the model shown below has been trying to load for more than an hour to no avail. 
+
+<img src="https://github.com/carlosjennings1991/Neural_Network_Charity_Analysis/blob/main/SVM.png">
 
 
