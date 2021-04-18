@@ -87,3 +87,7 @@ After running this, it generates a 72.5% level of accuracy, which is also not go
 
 #
 ## Summary
+
+While none of our models meet our 75% threshold, we are far from exhausting all of our possible models. For example, a supervised ML model such as a Support Vector Machine could work. After all, we are simply looking for binary outcome, yes or no, is this charity worhty or not worthy? 
+
+
