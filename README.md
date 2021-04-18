@@ -30,12 +30,14 @@ This is typically the first step for any machine learning model. We fed in a csv
 
 ___
 
+
 ### Step 2: Bin the values of the Application and Classification Columns
 What we do here is bin all the small, uncommon values into a category called 'other'. This reduces the noise in the model. 
 
 <img src="https://github.com/carlosjennings1991/Neural_Network_Charity_Analysis/blob/main/other_highlighted.png">
 
 ___
+
 
 ### Step 3: Run our first neural net. 
 This neural net consists of an input layer 80 neurons and a hidden layer of 30 neurons. The activation algorithms of layer 1 and 2 are Rectified Linear Units 'ReLu', and the output layer algorithm is sigmoid. 
@@ -48,6 +50,7 @@ After running the model through 100 epochs, the model generates a 72.6% level of
 
 ___
 
+
 ### Step 4: Run our second neural net. 
 This neural net consist of an input layer of 800 neurons and a hidden layer of 300 neurons. The activations algorithms of layer 1 and 2 are 'ReLu', and the output layer algorithm is sigmoid. 
 
@@ -58,6 +61,7 @@ After running this model through 100 epochs, the model generates a 72.56% level 
 <img src="https://github.com/carlosjennings1991/Neural_Network_Charity_Analysis/blob/main/NN_2_Evaluation.png">
 
 ___
+
 
 ### Step 5: Run our third neural net. 
 This neural net consists of an input layer of 80 neurons, a first hidden layer of 30 neurons, and a second hidden layer of 12 neurons. The first two activation algorithms are 'relu', the third is 'softmax', and the final one is 'sigmoid'. 
