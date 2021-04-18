@@ -54,11 +54,11 @@ After running this model through 100 epochs, the model generates a 72.56% level 
 ### Step 5: Run our third neural net. 
 This neural net consists of an input layer of 80 neurons, a first hidden layer of 30 neurons, and a second hidden layer of 12 neurons. The first two activation algorithms are 'relu', the third is 'softmax', and the final one is 'sigmoid'. 
 
-<img src="https://github.com/carlosjennings1991/Neural_Network_Charity_Analysis/blob/main/NN_3_Evaluation.png">
+<img src="https://github.com/carlosjennings1991/Neural_Network_Charity_Analysis/blob/main/NN_3_Summary.png">
 
 After running this model through 100 epochs it generates a 72.47% level of accuracy, which is also not good enough for our purposes. 
 
-<img src="https://github.com/carlosjennings1991/Neural_Network_Charity_Analysis/blob/main/NN_3_Summary.png">
+<img src="https://github.com/carlosjennings1991/Neural_Network_Charity_Analysis/blob/main/NN_3_Evaluation.png">
 
 #
 ## Summary
