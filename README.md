@@ -33,5 +33,10 @@ What we do here is bin all the small, uncommon values into a category called 'ot
 
 <img src="https://github.com/carlosjennings1991/Neural_Network_Charity_Analysis/blob/main/other_highlighted.png">
 
+### Step 3: Run our first neural net. 
+This neural net consists of an input layer 80 neurons and a hidden layer of 30 neurons. The activation algorithms of layer 1 and 2 are Rectified Linear Units 'ReLu', and the output layer algorithm is sigmoid. 
+
+<img src="https://github.com/carlosjennings1991/Neural_Network_Charity_Analysis/blob/main/NN_1_Summary.png">
+
 #
 ## Summary
