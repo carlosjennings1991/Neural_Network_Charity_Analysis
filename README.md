@@ -40,7 +40,7 @@ This neural net consists of an input layer 80 neurons and a hidden layer of 30 n
 
 After running the model through 100 epochs, the model generates a 72.6% level of accuracy, which is not good enough for our purposes. 
 
-<img src="https://github.com/carlosjennings1991/Neural_Network_Charity_Analysis/blob/main/NN_1_Evaluation.png>
+<img src="https://github.com/carlosjennings1991/Neural_Network_Charity_Analysis/blob/main/NN_1_Evaluation.png">
 
 #
 ## Summary
