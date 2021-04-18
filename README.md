@@ -72,6 +72,17 @@ After running this model through 100 epochs it generates a 72.47% level of accur
 
 <img src="https://github.com/carlosjennings1991/Neural_Network_Charity_Analysis/blob/main/NN_3_Evaluation.png">
 
+___
+
+
+### Step 6: Run our fourth neural net. 
+This neural net consists of an input layer 80 neurons and a hidden layer of 30 neurons. The activation algorithms are 'relu', 'softmax' and 'tanh' for the input, hidden and output layers respectively. Also, this is run for 500 epochs. 
+
+<img src="https://github.com/carlosjennings1991/Neural_Network_Charity_Analysis/blob/main/NN_4_Summary.png">
+
+After running this, it generates a 72.5% level of accuracy, which is also not good enough for our purposes. 
+
+<img src="https://github.com/carlosjennings1991/Neural_Network_Charity_Analysis/blob/main/NN_4_Evaluation.png">
 
 
 #
